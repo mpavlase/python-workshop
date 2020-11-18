@@ -18,15 +18,22 @@ Domácí příprava
   * https://naucse.python.cz/course/pyladies/beginners/variables/
   * https://naucse.python.cz/course/pyladies/beginners/comparisons/
   * https://naucse.python.cz/course/pyladies/beginners/str/
+  * https://naucse.python.cz/lessons/beginners/expressions/
 
 ### Sraz 1.2
 - for
 - range
 - while, break, continue
-- str (všechny operace pro str - tahák, f'', .format, %)
 - def (vlastní funkce)
-- 📚 materiály: 
+- str (všechny operace pro str - tahák, f'', .format, %)
+- 📚 materiály:
+  * https://naucse.python.cz/course/pyladies/intro/turtle/
+  * https://naucse.python.cz/course/pyladies/beginners/while/
+  * https://naucse.python.cz/course/pyladies/beginners/functions/
   * https://naucse.python.cz/lessons/beginners/str-index-slice/
+  * https://pyvec.github.io/cheatsheets/strings/strings-cs.pdf
+  * https://naucse.python.cz/course/pyladies/beginners/str-methods/
+  * https://naucse.python.cz/course/pyladies/beginners/fstring/
 
 ### Sraz 1.3
 - try/except
