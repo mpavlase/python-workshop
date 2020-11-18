@@ -1,6 +1,7 @@
 # python-workshop 🐍 🛠 🛒
 
 Na tomto místě jsou informace k 4 dílnému pythonnímu workshopu.
+Veškerý obsah je uveřejněn pod [licencí MIT](LICENSE)
 
 Hrubý obsah:
 ## [python-1](python-1/README.md)
