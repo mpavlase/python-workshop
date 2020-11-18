@@ -41,6 +41,6 @@ Domácí příprava
 - práce se soubory
 - užití context manageru (with open)
 - moduly - psaní vlastních modulů
-- __init__.py, ukázat jak funguje import cache
-- __main__.py, if name == '__main__'
+- `__init__.py`, ukázat jak funguje import cache
+- `__main__.py`, `if name == '__main__'`
 
