@@ -1,0 +1,29 @@
+# Good practises
+
+## Pojmenování proměnných/funkcí/tříd/...
+
+Vymyslet dobré jméno je jedním z nejtěžších věcí (nejen) při programování.
+
+Špatné příklady:
+```python
+def process(): ...
+def library(word): ...
+def name(): ...
+a = len(items)
+```
+
+
+```python
+def compute_average(): ...
+def search_in_library(): ...
+items_amount = len(items)
+```
+
+## Dobré ukázky
+Pokud metoda něco nastavuje, je vhodné ji pojmenovat s prefixem `set_`.
+Například:
+```python
+def set_coil_current(): ...
+def set_name(): ...
+def set_device(): ...
+```
