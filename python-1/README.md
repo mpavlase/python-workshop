@@ -27,7 +27,7 @@ Domácí příprava
 - def (vlastní funkce)
 - str (všechny operace pro str - tahák, f'', .format, %)
 - 📚 materiály:
-  * https://naucse.python.cz/course/pyladies/intro/turtle/
+  * https://naucse.python.cz/course/pyladies/intro/turtle/ (+ `for`)
   * https://naucse.python.cz/course/pyladies/beginners/while/
   * https://naucse.python.cz/course/pyladies/beginners/functions/
   * https://naucse.python.cz/lessons/beginners/str-index-slice/
