@@ -1,5 +1,7 @@
 # Domácí úkoly ke srazu Python 1.1
 
+**Úkoly řeště postupně.**
+
 1. Jakým příkazem se ukončuje příkazová řádka ve Windows (`cmd`)?
 1. Jakým příkazem se ukončuje interpret pythonu (`python`)?
 1. Jaká chyba nastane, když zkusíš podělit řetězec řetězcem?
@@ -26,6 +28,7 @@
 1. Pomocí příkazové řádky (`cmd`) vytvoř novou složku `homework` ve složce `Dokumenty/python1/1`
 1. Vytvořit následující dva programy ve složce `Dokumenty/python1/1/homework`:
     1. Vytvoř program `drink.py`, který se uživatele zeptá na věk a podle toho mu nabídne (=vypíše text) s vhodným nápojem. Pokud je věk menší než 18, vypíše `juice`, jinak vypíše `juice with "addition"`
+    > Volání `input()` vrací vždy řetězec. Pro převod na celé číslo použij konstrukci `int(input())`. Toto jsme na srazu nestihli probrat.
     1. Vytvoř program `repeat_name.py` postupně se zeptá uživatele na jméno, poté se zeptá na celé číslo a vypíše jeho jmé:
     ```
    Enter name: Lojza
