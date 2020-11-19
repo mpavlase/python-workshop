@@ -29,8 +29,6 @@
 1. Vytvořit následující dva programy ve složce `Dokumenty/python1/1/homework`:
     1. Vytvoř program `drink.py`, který se uživatele zeptá na věk a podle toho mu nabídne (=vypíše text) s vhodným nápojem. Pokud je věk menší než 18, vypíše `juice`, jinak vypíše `juice with "addition"`
     > Volání `input()` vrací vždy řetězec. Pro převod na celé číslo použij konstrukci `int(input())`. Toto jsme na srazu nestihli probrat.
-    
-    > Volání `print('prvni', promenna, 'treti')`, kde `promenna = 'druha', 
     1. Vytvoř program `repeat_name.py` postupně se zeptá uživatele na jméno, poté se zeptá na celé číslo a vypíše jeho jmé:
     ```
    Enter name:
