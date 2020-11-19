@@ -29,10 +29,14 @@
 1. Vytvořit následující dva programy ve složce `Dokumenty/python1/1/homework`:
     1. Vytvoř program `drink.py`, který se uživatele zeptá na věk a podle toho mu nabídne (=vypíše text) s vhodným nápojem. Pokud je věk menší než 18, vypíše `juice`, jinak vypíše `juice with "addition"`
     > Volání `input()` vrací vždy řetězec. Pro převod na celé číslo použij konstrukci `int(input())`. Toto jsme na srazu nestihli probrat.
+    
+    > Volání `print('prvni', promenna, 'treti')`, kde `promenna = 'druha', 
     1. Vytvoř program `repeat_name.py` postupně se zeptá uživatele na jméno, poté se zeptá na celé číslo a vypíše jeho jmé:
     ```
-   Enter name: Lojza
-   Enter number: 4
+   Enter name:
+   Lojza
+   Enter number:
+   4
    Hi Lojza from Python :-)
    Lojza! Lojza! Lojza! Lojza!
     ```
@@ -44,6 +48,7 @@
 1. Znova si vyzkoušet krok 9. Co je jinak? Vyzkoušej si v debuggeru akce `Step over` (i několikrát `Step over` po sobě), `Resume program`, `Stop`
 1. Odstraň všechny breakpointy ze souboru `drink.py` a vlož komentář na libovolný řádek. Spusť tento soubor pomocí debuggeru. Co se stane?
 1. Napiš program `spend-day.py`, který se uživatele se zeptá, jaký je den v týdnu a podle toho doporučí aktivitu.
+    > Pokud znáte z jiných jazyků konstrukci typu `switch`, kterou byste zde využili, tak Python ji přímo nemá. O ekvivalentní konstrukci vás odkážu na [tento článek](https://naucse.python.cz/course/pyladies/beginners/and-or/)
     - Je li `Monday`, nebo `Tuesday`, nebo `Wednesday`, nebo `Thursday`, nebo `Friday`, napíše `Get up and go work`.
     - Je li `Saturday`, zeptá se ho počasí.
       - Je-li počasí `sunny`, napíše `Go outdoors`.
