@@ -50,4 +50,5 @@ Domácí příprava
 - moduly - psaní vlastních modulů
 - `__init__.py`, ukázat jak funguje import cache
 - `__main__.py`, `if name == '__main__'`
+- JSON, `json.tool`
 
