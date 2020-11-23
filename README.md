@@ -1,6 +1,6 @@
 # python-workshop 🐍 🛠 🛒
 
-Na tomto místě jsou informace k 4 dílnému pythonnímu workshopu.
+Na tomto místě jsou informace k 4dílnému pythonnímu workshopu.
 Veškerý obsah je uveřejněn pod [licencí MIT](LICENSE)
 
 Hrubý obsah:
@@ -20,16 +20,16 @@ Hrubý obsah:
 
 ## [python-3](python-1/README.md)
 - Generátory, iterátory, správa zdrojů (context manager),
-- regulární výrazy a rozšíříme si znalosti o návrhu vztahů tříd (agregace, kompozice, návrhové vzory, ...)
-- tzv. dunder methods (Double UNDERscone, např. __str__).
+- regulární výrazy a rozšíříme si znalosti o návrhu vztahů tříd (agregace, kompozice, návrhové vzory, ...),
+- tzv. dunder methods (Double UNDERscone, např. `__str__`).
 
 
 ## [python-4](python-1/README.md)
 - Multitasking za použití vláken (thread), procesů (process),
-- knihovna asyncio
+- knihovna asyncio,
 - zásady čistého kódu (clean code),
 - logování, zpracování argumentů z příkazové řádky,
 - částečně ukážeme záludnosti PyQt,
-- distribuování pythonní aplikace jako samostatného .exe souboru
+- distribuování pythonní aplikace jako samostatného .exe souboru,
 - nakonec příklad spuštění C++ kódu z Pythonu.
 
