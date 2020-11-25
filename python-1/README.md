@@ -31,13 +31,23 @@ Domácí příprava
 - def (vlastní funkce)
 - str (všechny operace pro str - tahák, f'', .format, %)
 - 📚 materiály:
-  * https://naucse.python.cz/course/pyladies/intro/turtle/ (+ `for`)
-  * https://naucse.python.cz/course/pyladies/beginners/while/
-  * https://naucse.python.cz/course/pyladies/beginners/functions/
-  * https://naucse.python.cz/lessons/beginners/str-index-slice/
-  * https://pyvec.github.io/cheatsheets/strings/strings-cs.pdf
-  * https://naucse.python.cz/course/pyladies/beginners/str-methods/
-  * https://naucse.python.cz/course/pyladies/beginners/fstring/
+  - loops
+      * https://naucse.python.cz/course/pyladies/intro/turtle/ (+ `for`)
+      * https://naucse.python.cz/course/pyladies/beginners/while/
+  - functions
+      * https://naucse.python.cz/course/pyladies/beginners/functions/
+      * https://raw.githubusercontent.com/pyvec/cheatsheets/master/basic-functions/basic-functions-cs.pdf
+      * https://naucse.python.cz/course/pyladies/beginners/def/
+      * https://naucse.python.cz/course/pyladies/beginners/nested-traceback/
+      * https://github.com/mpavlase/python-workshop/tree/master/topics/functions#rozsah-platnosti-prom%C4%9Bnn%C3%BDch-variable-scope
+  - `str`
+      * https://naucse.python.cz/lessons/beginners/str-index-slice/
+      * https://naucse.python.cz/course/pyladies/beginners/str-methods/
+      * https://naucse.python.cz/course/pyladies/beginners/fstring/
+      * https://realpython.com/python-f-strings/#f-strings-a-new-and-improved-way-to-format-strings-in-python
+  - `str` taháky
+      * **https://pyformat.info/**
+      * https://pyvec.github.io/cheatsheets/strings/strings-cs.pdf
 
 ### Sraz 1.3
 - try/except
