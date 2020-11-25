@@ -5,6 +5,10 @@ Domácí příprava
 
 > Obsah níže je spíš rámcový, může se ještě v čase lehce měnit.
 
+### (Sraz 1.0) - Úvod, aneb proč by mě to mělo všechno vlastně zajímat
+- [celý obsah najdete zde](python1.0-intro.md)
+
+
 ### Sraz 1.1
 - cmd, PyCharm (úvod)
 - přiřazení, int, float, str (bez indexace)
