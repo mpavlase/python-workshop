@@ -54,3 +54,6 @@
       - Jinak napíše `I have no preference for you today`.
     - Je-li `Sunday`, napíše `Just rest`.
     - Jinak napíše `I don't know (...) day`, kde za `(...)` doplňte uživatelem zadaný název dne.
+
+Reference:
+- většina úloh byla převzata z https://projekty.pyladies.cz/session?course=pyladies-2019-brno-jaro-monday&session=expressions

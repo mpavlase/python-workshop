@@ -56,3 +56,6 @@ Poznámky:
 
     > „Z jednotlivých `X`“ opět znamená, že každý `print` vypíše maximálně jedno `X`.
 
+
+Reference:
+- většina úloh byla převzata z https://projekty.pyladies.cz/session?course=pyladies-2019-brno-jaro-monday&session=cycles
