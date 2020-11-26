@@ -29,7 +29,6 @@ Domácí příprava
 - range
 - while, break, continue
 - def (vlastní funkce)
-- str (všechny operace pro str - tahák, f'', .format, %)
 - 📚 materiály:
   - loops
       * https://naucse.python.cz/course/pyladies/intro/turtle/ (+ `for`)
@@ -40,6 +39,17 @@ Domácí příprava
       * https://naucse.python.cz/course/pyladies/beginners/def/
       * https://naucse.python.cz/course/pyladies/beginners/nested-traceback/
       * https://github.com/mpavlase/python-workshop/tree/master/topics/functions#rozsah-platnosti-prom%C4%9Bnn%C3%BDch-variable-scope
+
+### Sraz 1.3
+- str (všechny operace pro str - tahák, f'', .format, %)
+- try/except
+- list
+- tuple
+- dict
+- set
+- enum
+- mutable vs. immutable types (+ poznámka k předávaným arg ve funkci)
+- 📚 materiály:
   - `str`
       * https://naucse.python.cz/lessons/beginners/str-index-slice/
       * https://naucse.python.cz/course/pyladies/beginners/str-methods/
@@ -49,14 +59,6 @@ Domácí příprava
       * **https://pyformat.info/**
       * https://pyvec.github.io/cheatsheets/strings/strings-cs.pdf
 
-### Sraz 1.3
-- try/except
-- list
-- tuple
-- dict
-- set
-- enum
-- mutable vs. immutable types (+ poznámka k předávaným arg ve funkci)
 
 ### Sraz 1.4
 - práce se soubory
