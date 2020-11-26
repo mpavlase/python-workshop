@@ -4,7 +4,7 @@
 
 ## k čemu je Python dobrý
 - prototypování
-  - > Because it is quick and easy, you can write/re-write several times until you understand the problem and potential solutions better.
+  - > Because it is quick and easy, you can write/re-write several times until you understand the problem and potential solutions better. [[reference](https://www.reddit.com/r/learnpython/comments/2x2afy/what_do_people_mean_when_they_say_that_python_is/cow95o6/)]
   - REPL (read-eval-print-loop)
   - Jupyter Notebook - https://jupyter.org
     - demo: https://jupyter.org/try (jupyterlab)
