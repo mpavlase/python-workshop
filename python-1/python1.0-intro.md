@@ -1,4 +1,7 @@
 # Python 1.0 - intro
+
+![](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+
 ## k čemu je Python dobrý
 - prototypování
   - > Because it is quick and easy, you can write/re-write several times until you understand the problem and potential solutions better.
