@@ -4,6 +4,7 @@
 
 Poznámky:
 - rozměry obrázků jsou libovolné (jde o tvar, ne měřítko)
+- že na obrázcích dole není vidět želva/šipka není podstatné
 
 ## kreslení, funkce
 1. napiš funkci `draw_square`, která pomocí `range` vykreslí čtverec
@@ -42,7 +43,7 @@ Poznámky:
     ```
    > „Z jednotlivých `X`“ znamená, že každý print vypíše maximálně jedno `X`. Nepoužiješ tedy např. `print('X X X X X')` ani `print('X ' * 5)`.
 
-   Jak pojmenuješ proměnnou cyklu? A tu druhou?
+   Pokus se vymyslet smysluplné názvy pro proměnné v rámci konstrukce `for <meaningful name> in ...` i přesto, že bys je nevyužil/a. Jak pojmenuješ proměnnou cyklu? A tu druhou?
 
 1. Pomocí cyklů `for` a příkazu `if` napiš program, který z jednotlivých `X` vypíše:
     ```
