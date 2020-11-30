@@ -1,4 +1,4 @@
-# Domácí úkoly ke srazu Python 1.2
+# Domácí úkoly ke srazu Python 1.3
 
 **Úkoly řeš postupně**
 
