@@ -5,7 +5,19 @@
 Poznámky:
 - rozměry obrázků jsou libovolné (jde o tvar, ne měřítko)
 - že na obrázcích dole není vidět želva/šipka není podstatné
-
+- pro výpočet druhé odmocniny a následného převodu na celé číslo použij:
+  ```python
+  # uveď jen jednou na začátek souboru
+  from math import sqrt
+  ```
+  Ukázka použití v kódu:
+  ```python
+  >>> sqrt(9)
+  3.0
+  >>> int(3.14)
+  3
+  ```
+  
 ## kreslení, funkce
 1. napiš funkci `draw_square`, která pomocí `range` vykreslí čtverec
 1. nakresli rovnostranný trojúhelník
