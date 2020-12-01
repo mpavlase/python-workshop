@@ -45,9 +45,6 @@ Domácí příprava
 - try/except
 - list
 - tuple
-- dict
-- set
-- enum
 - mutable vs. immutable types (+ poznámka k předávaným arg ve funkci)
 - 📚 materiály:
   - `str`
@@ -58,9 +55,17 @@ Domácí příprava
   - `str` taháky
       * **https://pyformat.info/**
       * https://pyvec.github.io/cheatsheets/strings/strings-cs.pdf
+      * http://xahlee.info/comp/unicode_plants_flowers.html
+  - výjimky
+      * https://docs.python.org/3/library/exceptions.html#exception-hierarchy
+  - `list`
+      * https://naucse.python.cz/2020/brno-podzim-pondeli/beginners/list/
 
 
 ### Sraz 1.4
+- dict
+- set
+- enum
 - práce se soubory
 - užití context manageru (with open)
 - moduly - psaní vlastních modulů
