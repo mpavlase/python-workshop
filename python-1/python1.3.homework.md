@@ -33,7 +33,7 @@ Dej si pozor na případy, kdy je vstup příliš krátký (např. `'a'`). V tak
    '24. prosince'
    ```
 
-1. napiš funkci `align_examples(input_str, align)`, která vypíše různé zarovnání textu a každý řádek obalí mezi znaky `_`.
+1. napiš funkci `align_examples(input_str, width)`, která vypíše různé zarovnání textu (vlevo, doprostřed, vpravo) a každý řádek obalí mezi znaky `_`.
    
    Ukázka vstupů a výstupů:
    ```python
