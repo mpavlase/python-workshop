@@ -19,7 +19,7 @@ Dej si pozor na případy, kdy je vstup příliš krátký (např. `'a'`). V tak
    ''
    ```
 
-1. napiš funkci `make_first_big`, která vrátí řetězec s prvním znakem převedeným do velké abecedy.
+1. napiš funkci `make_first_big`, která vrátí (sama nic nevypisuje) řetězec s prvním znakem převedeným do velké abecedy.
 
    Ukázka vstupů a výstupů:
    ```python
@@ -33,3 +33,43 @@ Dej si pozor na případy, kdy je vstup příliš krátký (např. `'a'`). V tak
    '24. prosince'
    ```
 
+> 1. napiš funkci `max_len`, která vrátí délku nejdelšího řetězce v poli.
+> 
+>    Ukázka vstupů a výstupů:
+>    ```python
+>    >>> result = max_len(['pes', 'kocka', 'ryba', 'mravenecnik', 'moucha'])
+>    >>> print(result)
+>    11
+>    ```
+
+1. napiš funkci `align_examples(input_str, align)`, která vypíše různé zarovnání textu a každý řádek obalí mezi znaky `_`.
+   
+   Ukázka vstupů a výstupů:
+   ```python
+   >>> align_examples('pes', 7)
+   _pes    _
+   _  pes  _
+   _    pes_
+   ```
+
+1. napiš funkci `replace_char_list(input_str, position, replacement)`, která nahradí znak určený pozicí za jiný a vrátí ho jako nový řetězec
+   
+   > Použij k tomu operace nad datovým typem `list`
+   
+   Ukázka vstupů a výstupů:
+   ```python
+   >>> replaced = replace_char_list('chlup', 3, 'a')
+   >>> print(replaced)
+   'chlap'
+   ```
+
+1. napiš funkci `replace_char_str(input_str, position, replacement)`, která nahradí znak určený pozicí za jiný a vrátí ho jako nový řetězec
+   
+   > Použij k tomu operace nad datovým typem `str`
+   
+   Ukázka vstupů a výstupů:
+   ```python
+   >>> replaced = replace_char_str('chlup', 3, 'a')
+   >>> print(replaced)
+   'chlap'
+   ```

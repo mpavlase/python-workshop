@@ -60,6 +60,7 @@ Domácí příprava
       * https://docs.python.org/3/library/exceptions.html#exception-hierarchy
   - `list`
       * https://naucse.python.cz/2020/brno-podzim-pondeli/beginners/list/
+  - tuple
 
 
 ### Sraz 1.4
@@ -71,5 +72,5 @@ Domácí příprava
 - moduly - psaní vlastních modulů
 - `__init__.py`, ukázat jak funguje import cache
 - `__main__.py`, `if name == '__main__'`
-- JSON, `json.tool`
+- JSON, `python -m json.tool` (ukázat zdrojáky)
 
