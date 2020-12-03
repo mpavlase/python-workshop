@@ -33,15 +33,6 @@ Dej si pozor na případy, kdy je vstup příliš krátký (např. `'a'`). V tak
    '24. prosince'
    ```
 
-> 1. napiš funkci `max_len`, která vrátí délku nejdelšího řetězce v poli.
-> 
->    Ukázka vstupů a výstupů:
->    ```python
->    >>> result = max_len(['pes', 'kocka', 'ryba', 'mravenecnik', 'moucha'])
->    >>> print(result)
->    11
->    ```
-
 1. napiš funkci `align_examples(input_str, align)`, která vypíše různé zarovnání textu a každý řádek obalí mezi znaky `_`.
    
    Ukázka vstupů a výstupů:
