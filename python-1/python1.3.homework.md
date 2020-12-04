@@ -2,9 +2,6 @@
 
 **Úkoly řeš postupně**
 
-Poznámky:
-- rozměry obrázků jsou libovolné (jde o tvar, ne měřítko)
-
 ## řetězce
 1. napiš funkci `crop_first_last`, která vrátí vstupní řetězec bez prvního a posledního znaku.
 Dej si pozor na případy, kdy je vstup příliš krátký (např. `'a'`). V takovém případě musí vracet prázdný řetězec.
