@@ -44,8 +44,6 @@ Domácí příprava
 - str (všechny operace pro str - tahák, f'', .format, %)
 - try/except
 - list
-- tuple
-- mutable vs. immutable types (+ poznámka k předávaným arg ve funkci)
 - 📚 materiály:
   - `str`
       * https://naucse.python.cz/lessons/beginners/str-index-slice/
@@ -60,15 +58,21 @@ Domácí příprava
       * https://docs.python.org/3/library/exceptions.html#exception-hierarchy
   - `list`
       * https://naucse.python.cz/2020/brno-podzim-pondeli/beginners/list/
-  - tuple
 
 
 ### Sraz 1.4
+- tuple
+- mutable vs. immutable types (+ poznámka k předávaným arg ve funkci)
 - dict
 - set
 - enum
-- práce se soubory
-- užití context manageru (with open)
+- práce se soubory (`open`, `fd.close()`)
+- 📚 materiály:
+  - tuple
+
+
+### Sraz 1.5
+- užití context manageru (`with open`)
 - moduly - psaní vlastních modulů
 - `__init__.py`, ukázat jak funguje import cache
 - `__main__.py`, `if name == '__main__'`
