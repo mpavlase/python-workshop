@@ -61,10 +61,12 @@ Domácí příprava
 
 
 ### Sraz 1.4
+- dokončení z dřívějška: předávání argumentů funkcím
 - tuple
 - dict
 - mutable vs. immutable types (+ poznámka k předávaným arg ve funkci)
 - 📚 materiály:
+  - předávání arg. funkcím https://github.com/mpavlase/python-workshop/tree/master/topics/functions#funkce
   - tuple
     * https://naucse.python.cz/course/pyladies/beginners/tuple/
   - dict
