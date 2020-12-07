@@ -62,19 +62,24 @@ Domácí příprava
 
 ### Sraz 1.4
 - tuple
-- mutable vs. immutable types (+ poznámka k předávaným arg ve funkci)
 - dict
-- set
-- enum
-- práce se soubory (`open`, `fd.close()`)
+- mutable vs. immutable types (+ poznámka k předávaným arg ve funkci)
 - 📚 materiály:
   - tuple
+    * https://naucse.python.cz/course/pyladies/beginners/tuple/
+  - dict
+    * https://naucse.python.cz/course/pyladies/beginners/dict/
+    * tahák https://pyvec.github.io/cheatsheets/dicts/dicts-cs.pdf
 
 
 ### Sraz 1.5
+- set
+- enum
+- práce se soubory (`open`, `fd.close()`)
 - užití context manageru (`with open`)
 - moduly - psaní vlastních modulů
 - `__init__.py`, ukázat jak funguje import cache
 - `__main__.py`, `if name == '__main__'`
 - JSON, `python -m json.tool` (ukázat zdrojáky)
+- 📚 materiály:
 
