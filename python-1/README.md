@@ -75,13 +75,22 @@ Domácí příprava
 
 
 ### Sraz 1.5
-- set
-- enum
 - práce se soubory (`open`, `fd.close()`)
 - užití context manageru (`with open`)
 - moduly - psaní vlastních modulů
 - `__init__.py`, ukázat jak funguje import cache
 - `__main__.py`, `if name == '__main__'`
 - JSON, `python -m json.tool` (ukázat zdrojáky)
+   - stáhněte si [ukázkový soubor](example.json)
+- jen pokud zbyte čas:
+  - set
+  - enum
 - 📚 materiály:
-
+  - https://naucse.python.cz/2020/brno-podzim-pondeli/beginners/files/
+  - https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects
+  - https://naucse.python.cz/2020/brno-podzim-pondeli/beginners/modules/
+  - `from package import *` https://docs.python.org/3/tutorial/modules.html#importing-from-a-package
+- poznámky:
+  - env var:
+    - Win: `%PYTHONPATH%` = `/path1;/path2`
+    - Linux: `$PYTHONPATH` = `/path1:/path2`
