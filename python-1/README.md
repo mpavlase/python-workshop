@@ -90,6 +90,7 @@ Domácí příprava
   - https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects
   - https://naucse.python.cz/2020/brno-podzim-pondeli/beginners/modules/
   - `from package import *` https://docs.python.org/3/tutorial/modules.html#importing-from-a-package
+  - https://docs.python.org/3/library/__main__.html
 - poznámky:
   - env var:
     - Win: `%PYTHONPATH%` = `/path1;/path2`
