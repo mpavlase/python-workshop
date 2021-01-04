@@ -13,7 +13,7 @@ a jako hodnoty k nim jejich druhé mocniny.
     >>> input_dict = {'name': 'Karel', 'pet': 'guinea pig', 'age': 99}
     >>> output_dict = swap(input_dict)
     >>> print(output_dict)
-    {'karel': 'name', 'guinea pig': 'pet', 99: 'age'}
+    {'Karel': 'name', 'guinea pig': 'pet', 99: 'age'}
     ```
 
 1. Napiš funkci `freq_analysis`, která jako argument dostane řetězec 
