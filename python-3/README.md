@@ -1,9 +1,9 @@
 ## Python 3
 
 ### Sraz 3.1
-- dunder methods (jen jednoduše: __str__, __name__, ale už NE __add__, ...)
+- dunder methods (jen jednoduše: `__str__`, `__name__`, ale už NE `__add__`, ...)
 - generátory (yield)
-- iterátory (__iter__, __next__)
+- iterátory (`__iter__`, `__next__`)
 - vlastní context manager
 
 ### Sraz 3.2
@@ -18,5 +18,5 @@
 
 ### Sraz 3.4
 - OOP: interfaces, kompozice (strong assoc.), agregace (weak assoc.)
-- dunder methods (__getitem__, __add__, ...)
+- dunder methods (`__getitem__`, `__add__`, ...)
 
