@@ -17,7 +17,7 @@
 - pathlib
 
 ### Sraz 2.3
-- úvod do tříd (zapouzdření, třída vs. instance, bez dědičnosti, self, class/inst property)
+- úvod do tříd (zapouzdření, třída vs. instance, self, class/inst property)
 - @property
 
 ### Sraz 2.4
