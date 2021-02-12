@@ -16,6 +16,7 @@
 
 ### Sraz 4.4
 - PyQT (signal/slot, předávání parent obj., pyqt5, pyside, ruční kompilace)
+- vlastní balíčky (setuptools)
 - .py -> .exe
 - (C binding do pythonu)
 
