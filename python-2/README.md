@@ -2,19 +2,29 @@
 
 
 ### Sraz 2.1
-- orgranizace Py projektů (venv, pip, requirements.txt)
-- vlastní balíčky (setuptools)
-- ipython
+- orgranizace Py projektů:
+  - pip
+  - requirements.txt
+  - venv
+- materiály:
+  - repozitář balíčků https://pypi.org
+  - virtualenv vs venv vs pyenv... https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe
+  - pipenv (officially recommended) https://realpython.com/pipenv-guide/
+
+
+### Sraz 2.2
+- ipython - https://ipython.readthedocs.io/en/stable/overview.html
 - jupyter notebook
 - numpy (jen zlehka, upozornit na reference, někdy je výsledkem operace vrací kopie, někdy originální objekt, list vs numpy.array, binding do C)
 
-### Sraz 2.2
 - PyCharm podrobně
 - rady a postřehy k debuggování obecně
 - testy
 - PEP8
 - typehints
 - pathlib
+- materiály:
+  - (`%load`) JSON example API: https://jsonplaceholder.typicode.com/todos/1
 
 ### Sraz 2.3
 - úvod do tříd (zapouzdření, třída vs. instance, self, class/inst property)
