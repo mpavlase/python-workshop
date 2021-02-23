@@ -25,6 +25,9 @@
 - pathlib
 - materiály:
   - (`%load`) JSON example API: https://jsonplaceholder.typicode.com/todos/1
+  - [python2.2.matplotlib.ipynb](python2.2.matplotlib.ipynb)
+  - [python2.2.notes.md](python2.2.notes.md)
+  - [python2.2.numpy.sympy.ipynb](python2.2.numpy.sympy.ipynb)
 
 ### Sraz 2.3
 - úvod do tříd (zapouzdření, třída vs. instance, self, class/inst property)
