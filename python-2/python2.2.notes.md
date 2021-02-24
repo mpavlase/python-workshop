@@ -13,6 +13,10 @@
   * activate `venv`
   * `pip install ipython notebook` (`numpy` a `matplotlib` not yet!)
 
+# numpy, scipy, sympy, OpenCV, pandas...
+> There are vast of python specialized libraries. We aren't going to go deep 
+> dive - read the docs is essential.
+
 # ipython
 keyboard
 - `char<ArrowUp>` completion
@@ -20,7 +24,7 @@ keyboard
 - `<Ctrl> + O` - newline v promptu
 - `<Ctrl> + K` - remove content current line (preserve `\n`)
 
-nápověda:
+getting help:
 - `<tab>` completion
 - `obj?`, `obj??`
 - middle search
