@@ -1,21 +1,21 @@
-# nedodělky z minula
+# leftovers from last session
 * venv
-  * nelze přesounout
-  * mazání venvu
-  * vytvoření venvu skrze nový projekt v PyCharmu
-  * rozdíly mezi: venv, pyvenv, pyenv, virtualenv, virtualenvwrapper, pipenv
+  * can't be moved to different location
+  * venv removal
+  * show create venv from New project dialog in PyCharm
+  * different between: venv, pyvenv, pyenv, virtualenv, virtualenvwrapper, pipenv, ...
     * viz link v materiálech na StackOverflow
-    * TLDR: pochop a používej základní venv, pak teprve zkoušej tooly výše.
+    * TLDR: begin with understanding pure `venv`, then experiment with other wrappers
 
-# příprava
-* poslat den před kurzem:
-  * založit `venv`
-  * aktivovat `venv`
-  * `pip install ipython notebook` (`numpy` a `matplotlib` ještě ne!)
+# preparation
+* day before session
+  * create `venv`
+  * activate `venv`
+  * `pip install ipython notebook` (`numpy` a `matplotlib` not yet!)
 
 # ipython
-klávesnice
-- `znak<ArrowUp>` doplňování
+keyboard
+- `char<ArrowUp>` completion
 - `<Ctrl> + R` reverse search (`<Enter>` i pro editaci)
 - `<Ctrl> + O` - newline v promptu
 - `<Ctrl> + K` - remove content current line (preserve `\n`)
@@ -31,7 +31,8 @@ nápověda:
   ```
 
 - `os?`
-- "magic commands" (možno psát i bez `%`, ale jen pokud nekoliduje s jiným symbolem)
+- "magic commands" (`%` prefix is not needed unless there is other symbol to collide)
+  - https://ipython.readthedocs.io/en/stable/interactive/magics.html
   - `%cmd`
   - `%pip`
   - `%ls`, `%pwd`
@@ -41,28 +42,42 @@ nápověda:
   - `%timeit 'a'.upper()` (inline) vs. `%%timeit` (cell mode)
   - `%load <file_or_url>` - load file/URL as prompt content (editable), i z URL (JSON placeholder URL)
   - `%quickref`
-  - `%rerun 5-7` - čísla promptů z historie
+  - `%rerun 5-7` - promopt numbers from history
+  - `%paste` - ignore `>`, `+`, paste & execute code from clipboard
+  ```python
+  In [10]: print('>>> a = 6\n>>> print(f"{a=}")')
+  >>> a = 6
+  >>> print(f"{a=}")
+  
+  In [11]: %paste
+  >>> a = 6
+  >>> print(f"{a=}")
+
+  ## -- End pasted text --
+  a=6
+  ```
 - `!ping`, `!notepad`, `msg = !ping 8.8.8.8`
-- profily = samostatné konfigurace ipythonu
+- profily = possibility to use different ipythonu configs
 
 
 # Jupyter Notebook
-- podobně jako VIM, `insert` vs `command` mode 
+- show actions from menu first
+- moves like VIM, `insert` vs `command` mode
+  - cell types:
+    - **M**arkdown
+    - **Y** code
 - commands:
-  - insert **A**bove,
-  - insert **B**elow,
+  - insert new cell **A**bove,
+  - insert new cell **B**elow,
   - **C**opy cell,
   - **V**ložit (paste) cell
   - **dd** delete cell
-- numpy viz **separated notebook**
-- `pip install RISE` (rich presentation with live execution)
-  - 
 
-### matplotlib
-- `pip install matplotlib`
+# numpy + sympy
+- see **separated notebook** [python2.2.numpy.sympy.ipynb](python2.2.numpy.sympy.ipynb)
 
-
-- matplotlib.inline
-  - v základě bez lupy
-- sympy
-  - převod rovnic do LaTeXu
+# matplotlib, cell magic, RISE, presentation mode
+- see **separated notebook** [python2.2.matplotlib.ipynb](python2.2.matplotlib.ipynb)
+- `% matplotlib inline` is implicit setup
+  - inline doesn't provide zooming 
+  - but `%matplotlib qt5` does

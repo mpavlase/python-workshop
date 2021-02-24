@@ -14,24 +14,31 @@
 
 ### Sraz 2.2
 - ipython - https://ipython.readthedocs.io/en/stable/overview.html
-- jupyter notebook
-- numpy (jen zlehka, upozornit na reference, někdy je výsledkem operace vrací kopie, někdy originální objekt, list vs numpy.array, binding do C)
+  - příklad pro `%load`: https://jsonplaceholder.typicode.com/todos/1
+- jupyter notebook - https://jupyter.org/documentation
+- základy:
+  - numpy
+  - matplotlib
 
+- examples for live presentation:
+  - [python2.2.notes.md](python2.2.notes.md)
+  - [python2.2.matplotlib.ipynb](python2.2.matplotlib.ipynb)
+  - [python2.2.numpy.sympy.ipynb](python2.2.numpy.sympy.ipynb)
+
+- other related libraries (not part of presentation):
+  - **SciPy** - library for mathematics, science, and engineering. https://docs.scipy.org/doc/scipy/reference/tutorial/general.html
+  - **Pandas** - library for data analysis. https://pandas.pydata.org/
+  - **OpenCV** - image processing (`pip install cv2`). https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
+
+### Sraz 2.3
+- úvod do tříd (zapouzdření, třída vs. instance, self, class/inst property)
+- @property
 - PyCharm podrobně
 - rady a postřehy k debuggování obecně
 - testy
 - PEP8
 - typehints
 - pathlib
-- materiály:
-  - (`%load`) JSON example API: https://jsonplaceholder.typicode.com/todos/1
-  - [python2.2.matplotlib.ipynb](python2.2.matplotlib.ipynb)
-  - [python2.2.notes.md](python2.2.notes.md)
-  - [python2.2.numpy.sympy.ipynb](python2.2.numpy.sympy.ipynb)
-
-### Sraz 2.3
-- úvod do tříd (zapouzdření, třída vs. instance, self, class/inst property)
-- @property
 
 ### Sraz 2.4
 - lambda, map, filter, sort
