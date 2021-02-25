@@ -26,7 +26,14 @@ Pro následující úlohy bude nutné si v dokumentaci dohledat i další funkce
    1. Jako samostatné figure (1 graf na 1 buňku v notebooku)
    1. Zkus si je umístit do jednoho figure pomocí `plt.subplot` / `plt.subplots` - viz dokumentace
 
-1. "proložení přímkou" (linear regression)
+1. Vyzkoušej si jiný renderrer (pro matplotlib).
+   1. Vykresli si jednu datovou řadu
+   1. Změň renderrer pomocí magic commandu `%matplotlib` postupně na:
+      1. `qt5` (budeš si potřebovat doinstalovat balíček `PyQt5`)
+      1. `inline`
+   1. Znova spusť buňku z kroku 1, aby se výstup překreslil s posledně použitým renderrerem
+
+1. Vyzkoušej si "proložení přímkou" (linear regression)
    1. Doinstaluj si balíček `scipy`
    1. V dokumentaci knihovny `scipy` si vyhledej funkci, která vypočítá koeficienty lineární regrese metodou nejmenších čtverců
    1. Jako zdroj dat použij datovou řadu `temp`
