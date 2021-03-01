@@ -15,6 +15,8 @@
    - "single quoted text"
    ```
 
+   **Poznámka**: `cmd` nerozumí jednoduchým apostrofům a proto se `'single quoted text'` tváří jako tři argumenty, vč. znaku apostrofu. To není vaše vina, ale specifikum toho shellu - tuto nekonzistenci neřešte.
+
    Argumenty z příkazové řádky v pythonu dostaneš z `argv`,
    který si naimportuješ z modulu `sys` (např. `from sys import argv`).
 
@@ -60,9 +62,9 @@
     ```
 
 1. Z předchozího souboru udělej spustitelný modul.
-  
-   Nachystej si následující adresářovou strukturu, kterout rozšiř tak, 
-   aby se dal modul spustit (tečka označuje 
+
+   Nachystej si následující adresářovou strukturu, kterou rozšiř tak,
+   aby se dal modul spustit (tečka označuje
    aktuální adresář, ten se nevytváří):
    ```commandline
    .
