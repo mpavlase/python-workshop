@@ -39,7 +39,7 @@
 - inheritance, super()
 
 - examples for live presentation:
-  - [python2.3.notes.html](python2.3.notes.html) (source notebook [python2.3.notes.ipynb](python2.3.notes.ipynb))
+  -  [python2.3.notes.ipynb](python2.3.notes.ipynb)
 
 - materiály:
   - https://naucse.python.cz/2019/brno-podzim-pondeli/beginners/class/
