@@ -31,19 +31,29 @@
   - **OpenCV** - image processing (`pip install cv2`). https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
 
 ### Sraz 2.3
-- úvod do tříd (zapouzdření, třída vs. instance, self, class/inst property)
-- @property
-- PyCharm podrobně
-- rady a postřehy k debuggování obecně
-- testy
-- PEP8
-- typehints
-- pathlib
+- úvod do tříd
+  - zapouzdření,
+  - třída vs. instance,
+  - self,
+  - class/inst property
+- inheritance, super()
+
+- examples for live presentation:
+  - [python2.3.ipynb](python2.3.ipynb)
 
 ### Sraz 2.4
+- testy
+- clean code, SOLID
+- typehints
+- PEP8
+- rady a postřehy k debuggování obecně
+- PyCharm podrobně
+
+### Sraz 2.5
+- pathlib
 - lambda, map, filter, sort
 - list/dict/set comprehensions
 - ternary operator
 - vlastní výjimky
 - dekorátory
-
+- jupyter notebook jako prezentace
