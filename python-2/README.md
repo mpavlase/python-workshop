@@ -41,6 +41,10 @@
 - examples for live presentation:
   - [python2.3.ipynb](python2.3.ipynb)
 
+- materiály:
+  - https://naucse.python.cz/2019/brno-podzim-pondeli/beginners/class/
+  - https://naucse.python.cz/2019/brno-podzim-pondeli/beginners/inheritance/
+
 ### Sraz 2.4
 - testy
 - clean code, SOLID
