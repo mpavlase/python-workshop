@@ -40,6 +40,9 @@
 
 - examples for live presentation:
   -  [python2.3.notes.ipynb](python2.3.notes.ipynb)
+- homework
+  -  [python2.3.homework.ipynb](python2.3.homework.ipynb)
+  -  solution: [python2.3.homework.solution.ipynb](python2.3.homework.solution.ipynb)
 
 - materiály:
   - https://naucse.python.cz/2019/brno-podzim-pondeli/beginners/class/
