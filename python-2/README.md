@@ -49,18 +49,36 @@
   - https://naucse.python.cz/2019/brno-podzim-pondeli/beginners/inheritance/
 
 ### Sraz 2.4
-- testy
-- clean code, SOLID
-- typehints
 - PEP8
-- rady a postřehy k debuggování obecně
-- PyCharm podrobně
+- clean code
+- typehints
+- Enum
+- testing, pytest
+- examples for live presentation:
+  -  [python2.4.notes.ipynb](python2.4.notes.ipynb)
+- resources:
+    - **pep8** - code style recommendations for Python, https://realpython.com/python-pep8/
+        - PEP8 song 😃 https://www.youtube.com/watch?v=wNcobO-TAyY
+    - **clean code** by examples - https://github.com/zedr/clean-code-python
+    - **Enum** - enumeration data type, https://docs.python.org/3/library/enum.html
+    - **mypy** - static analysis of code, https://mypy.readthedocs.io/
+    - testing related:
+        - https://docs.python-guide.org/writing/tests/
+        - https://www.youtube.com/watch?v=FjwayiHNI1w
+        - testing as science https://www.youtube.com/watch?v=FjwayiHNI1w
+        - mocks, fakes, stubs, spies... - https://www.youtube.com/watch?v=-nJ-ZW_LP7s
+    - **pytest** - famous test runner, https://docs.pytest.org/en/stable/
+
 
 ### Sraz 2.5
 - pathlib
 - lambda, map, filter, sort
+- namedtuple?
 - list/dict/set comprehensions
 - ternary operator
 - vlastní výjimky
 - dekorátory
-- jupyter notebook jako prezentace
+- jupyter notebook as presentatin
+- logging module
+- rady a postřehy k debuggování obecně
+- PyCharm podrobně
