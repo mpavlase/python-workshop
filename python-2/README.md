@@ -51,34 +51,40 @@
 ### Sraz 2.4
 - PEP8
 - clean code
-- typehints
 - Enum
-- testing, pytest
 - examples for live presentation:
   -  [python2.4.notes.ipynb](python2.4.notes.ipynb)
+- exercise to practise (=called *homework* before):
+  - [python2.4.exercise](python2.4.exercise)
 - resources:
     - **pep8** - code style recommendations for Python, https://realpython.com/python-pep8/
         - PEP8 song 😃 https://www.youtube.com/watch?v=wNcobO-TAyY
     - **clean code** by examples - https://github.com/zedr/clean-code-python
     - **Enum** - enumeration data type, https://docs.python.org/3/library/enum.html
-    - **mypy** - static analysis of code, https://mypy.readthedocs.io/
-    - testing related:
-        - https://docs.python-guide.org/writing/tests/
-        - https://www.youtube.com/watch?v=FjwayiHNI1w
-        - testing as science https://www.youtube.com/watch?v=FjwayiHNI1w
-        - mocks, fakes, stubs, spies... - https://www.youtube.com/watch?v=-nJ-ZW_LP7s
-    - **pytest** - famous test runner, https://docs.pytest.org/en/stable/
 
 
 ### Sraz 2.5
-- pathlib
-- lambda, map, filter, sort
-- namedtuple?
-- list/dict/set comprehensions
+- typehints
+- testing, pytest
+- namedtuple
 - ternary operator
 - vlastní výjimky
-- dekorátory
 - jupyter notebook as presentatin
-- logging module
 - rady a postřehy k debuggování obecně
 - PyCharm podrobně
+- resources
+  - **mypy** - static analysis of code, https://mypy.readthedocs.io/
+  - testing related:
+    - https://docs.python-guide.org/writing/tests/
+    - https://www.youtube.com/watch?v=FjwayiHNI1w
+    - testing as science https://www.youtube.com/watch?v=FjwayiHNI1w
+    - mocks, fakes, stubs, spies... - https://www.youtube.com/watch?v=-nJ-ZW_LP7s
+  - **pytest** - famous test runner, https://docs.pytest.org/en/stable/
+
+
+### Sraz 2.6
+- pathlib
+- dekorátory
+- list/dict/set comprehensions
+- lambda, map, filter, sort
+- logging module
