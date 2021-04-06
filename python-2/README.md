@@ -64,14 +64,15 @@
 
 
 ### Sraz 2.5
+- Enum review
 - typehints
 - testing, pytest
-- namedtuple
-- ternary operator
-- vlastní výjimky
-- jupyter notebook as presentatin
-- rady a postřehy k debuggování obecně
-- PyCharm podrobně
+- own defined exceptions
+- examples for live presentation:
+  - [python2.5.notes.ipynb](python2.5.notes.ipynb)
+  - [python2.5.testing.notes.ipynb](python2.5.testing.notes.ipynb)
+- exercise to practise
+  - [python2.5.exercise](python2.5.exercise)
 - resources
   - **mypy** - static analysis of code, https://mypy.readthedocs.io/
   - testing related:
@@ -79,12 +80,18 @@
     - https://www.youtube.com/watch?v=FjwayiHNI1w
     - testing as science https://www.youtube.com/watch?v=FjwayiHNI1w
     - mocks, fakes, stubs, spies... - https://www.youtube.com/watch?v=-nJ-ZW_LP7s
+    - test driven development, https://en.wikipedia.org/wiki/Test-driven_development#Test-driven_development_cycle
   - **pytest** - famous test runner, https://docs.pytest.org/en/stable/
 
 
 ### Sraz 2.6
+- namedtuple
 - pathlib
 - dekorátory
 - list/dict/set comprehensions
+- ternary operator
 - lambda, map, filter, sort
 - logging module
+- jupyter notebook as presentatin
+- rady a postřehy k debuggování obecně
+- PyCharm podrobně
