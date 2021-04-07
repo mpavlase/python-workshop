@@ -72,7 +72,7 @@
   - [python2.5.notes.ipynb](python2.5.notes.ipynb)
   - [python2.5.testing.notes.ipynb](python2.5.testing.notes.ipynb)
 - exercise to practise
-  - [python2.5.exercise](python2.5.exercise)
+  - [python2.5.exercise.md](python2.5.exercise.md)
 - resources
   - **mypy** - static analysis of code, https://mypy.readthedocs.io/
   - testing related:
