@@ -85,13 +85,22 @@
 
 
 ### Sraz 2.6
-- namedtuple
-- pathlib
-- dekorátory
+- Pathlib https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+- namedtuple https://docs.python.org/3/library/collections.html#namedtuple-factory-function-for-tuples-with-named-fields
+- dataclasses https://docs.python.org/3/library/dataclasses.html
+- lambda, map, filter, sort
+    - https://docs.python.org/3/howto/sorting.html
+- logging module
+    - https://docs.python.org/3/howto/logging-cookbook.html#logging-cookbook
+    - https://docs.python.org/3/library/logging.html
+- jupyter notebook as presentation
 - list/dict/set comprehensions
 - ternary operator
-- lambda, map, filter, sort
-- logging module
-- jupyter notebook as presentatin
+
+- dekorátory
+
+
 - rady a postřehy k debuggování obecně
 - PyCharm podrobně
+- examples for live presentation:
+  - [python2.6.notes.ipynb](python2.6.notes.ipynb)
