@@ -1,7 +1,6 @@
 ## Python 4
 
 ### Sraz 4.1
-- clean code
 - thread/process
 - IPC (queue, lock, shm, event, value...)
 

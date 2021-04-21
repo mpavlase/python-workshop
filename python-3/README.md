@@ -13,7 +13,8 @@
 - `*list`, `**dict` expanze
 
 ### Sraz 3.3
-- OOP: inheritance, super()
+- @property
+(- OOP: inheritance, super())
 - OOP: staticmethod, classmethod, konvence `_protected`, `__private`
 
 ### Sraz 3.4
