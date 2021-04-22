@@ -5,6 +5,9 @@
 - generátory (yield)
 - iterátory (`__iter__`, `__next__`)
 - vlastní context manager
+- list/dict/set comprehensions
+- ternary operator
+- dekorátory
 
 ### Sraz 3.2
 - regular expressions

@@ -94,13 +94,8 @@
     - https://docs.python.org/3/howto/logging-cookbook.html#logging-cookbook
     - https://docs.python.org/3/library/logging.html
 - jupyter notebook as presentation
-- list/dict/set comprehensions
-- ternary operator
-
-- dekorátory
-
-
-- rady a postřehy k debuggování obecně
-- PyCharm podrobně
+    - source jupyter notebook [python2.6.presentation.demo.ipynb](python2.6.presentation.demo.ipynb)
+    - exported self-contained HTML [python2.6.presentation.demo.slides.html](python2.6.presentation.demo.slides.html)
+- tips for debugging in PyCharm
 - examples for live presentation:
-  - [python2.6.notes.ipynb](python2.6.notes.ipynb)
+    - [python2.6.notes.ipynb](python2.6.notes.ipynb)
